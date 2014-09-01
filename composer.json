@@ -1,0 +1,14 @@
+{
+    "name": "waldemar/superupload",
+    "description": "cakephp media upload plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "waldemarnt",
+            "email": "waldemarnt@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}

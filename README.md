@@ -1,3 +1,8 @@
+
+[![Total Downloads](https://poser.pugx.org/waldemar/superupload/d/total.png)](https://packagist.org/packages/waldemar/superupload)
+[![Latest Stable Version](https://poser.pugx.org/waldemar/superupload/v/stable.png)](https://packagist.org/packages/waldemar/superupload)
+
+
 #Introduction:
 
 
